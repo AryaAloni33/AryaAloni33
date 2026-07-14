@@ -27,15 +27,6 @@
 - JWT Authentication
 - Git & GitHub
 
-- ## 📈 Currently Working On
-
-- 🚀 Advanced Backend Development
-- ⚛️ React.js
-- 🏗️ System Design
-- 🐳 Docker
-- ☁️ Cloud Fundamentals
-# 💻 Tech Stack
-
 ### 🚀 Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
